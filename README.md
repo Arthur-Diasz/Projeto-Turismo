@@ -2,7 +2,7 @@
 <p> Projeto feito para um criente fictício com o objetivo de praticar a criação do design usando o Figma, e a criação do site com HTML e CSS. </p>
   
   
-![image]()
+![image](img\PreviewGithub.jpeg)
   
   
   
